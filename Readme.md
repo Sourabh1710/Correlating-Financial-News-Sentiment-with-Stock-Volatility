@@ -1,6 +1,6 @@
 # FinTech Project: Correlating Financial News Sentiment with Stock Volatility
 
-**Author:** Sourabh Sonker (Aspiring Data Scientist)
+**Author:** **Sourabh Sonker (Aspiring Data Scientist)**
 
 ## Table of Contents
 - [Project Overview](#project-overview)
