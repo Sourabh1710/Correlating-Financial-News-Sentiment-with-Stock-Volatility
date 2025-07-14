@@ -1,5 +1,6 @@
 # FinTech Project: Correlating Financial News Sentiment with Stock Volatility
 
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/) 
 **Author:** **Sourabh Sonker (Aspiring Data Scientist)**
 
 ## Table of Contents
